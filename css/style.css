@@ -1,0 +1,26 @@
+p {
+  text-align: center;
+}
+
+footer {
+  height: 44px;
+  background: #7abde9;
+  color: #ffffff;
+  text-align: center;
+}
+#connect {
+  background-image: url(https://images.pexels.com/photos/2091039/pexels-photo-2091039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 40px;
+  color: #fff;
+  margin-top: 5px;
+  border-top: #333 7px solid;
+  border-bottom: #333 7px solid;
+}
+img{
+  liquid-rescale 130x100%\!;
+}
