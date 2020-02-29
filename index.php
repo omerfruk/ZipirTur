@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
   <!--caroysel bölümü baslangic-->
-
-<div id="carouselExampleControls" class="carousel slide responsive"  data-ride="carousel">
+  
+<div id="carouselExampleControls" class="carousel slide "  data-ride="carousel">
   <div class="carousel-inner" style="height:800px !important;" >
      <div class="carousel-item active">
        <img src="img/mardin/mardin2.jpg" class="d-block" style="width: 100%;" alt="...">
@@ -21,6 +21,7 @@
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
+</div>
 </div>
 <hr>
 <!--caroysel bölümü eklendi-->
@@ -122,6 +123,7 @@
           </p>
         </div>
 -->
+  </div>
   </div>
 </div>
 <!--içerik forografları ve resimler eklendi-->
