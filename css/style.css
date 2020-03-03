@@ -10,7 +10,7 @@ footer {
 }
 #navbar{
   background: rgb(2,0,36);
-  background: linear-gradient(343deg, rgba(2,0,36,1) 0%, rgba(0,0,255,1) 22%, rgba(0,212,255,1) 100%);
+background: linear-gradient(343deg, rgba(2,0,36,1) 0%, rgba(0,0,255,1) 22%, rgba(0,212,255,1) 100%);
 }
 #connect {
   background-image: url(https://images.pexels.com/photos/2091039/pexels-photo-2091039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);

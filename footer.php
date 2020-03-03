@@ -1,6 +1,6 @@
 <!--footer-->
-  <footer>
-    <div class="py-5 bg-dark"  id ="footer">
+  <footer >
+    <div class="py-5 bg-dark" id ="footer">
       <div class="container">
         <p class="m-0 text-center text-white">OmerFaruk Copyright &copy;2020</p>
       </div>
