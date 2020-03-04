@@ -43,10 +43,11 @@
       <!-- Grid row-->
 
     </div>
-  </div>
+</div>
 
+  <div  id="footerMiddle">
   <!-- Footer Links -->
-  <div class="container text-center text-md-left mt-5" id="footerMiddle">
+  <div class="container text-center text-md-left ">
 
     <!-- Grid row -->
     <div class="row mt-3">
@@ -132,7 +133,7 @@
 
   </div>
   <!-- Footer Links -->
-
+  </div>
   <!-- Copyright -->
   <div class="footer-copyright text-center py-3"id="footerBotem">© 2020 Copyright:
     <a href="https://mdbootstrap.com/education/bootstrap/">OmerFruk</a>
