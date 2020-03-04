@@ -1,5 +1,5 @@
-<footer class="page-footer font-small unique-color-dark " >
-  <div id="footer">
+<footer class="page-footer font-small unique-color-dark " id="footer" >
+  <div >
     <div class="container">
 
       <!-- Grid row-->
