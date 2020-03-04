@@ -1,8 +1,5 @@
-
-<!-- Footer -->
-<footer class="page-footer font-small unique-color-dark ">
-
-  <div id = "footer">
+<footer class="page-footer font-small unique-color-dark " >
+  <div id="footer">
     <div class="container">
 
       <!-- Grid row-->
@@ -45,10 +42,10 @@
       <!-- Grid row-->
 
     </div>
-</div>
+  </div>
 
   <!-- Footer Links -->
-  <div class="container text-center text-md-left mt-5">
+  <div class="container text-center text-md-left mt-5" id="footerMiddle">
 
     <!-- Grid row -->
     <div class="row mt-3">
@@ -138,8 +135,8 @@
   <!-- Footer Links -->
 
   <!-- Copyright -->
-  <div class="footer-copyright text-center py-3">© 2020 Copyright:
-    <a href="https://mdbootstrap.com/education/bootstrap/"> OmerFruk</a>
+  <div class="footer-copyright text-center py-3"id="footerBotem">© 2020 Copyright:
+    <a href="https://mdbootstrap.com/education/bootstrap/"> MDBootstrap.com</a>
   </div>
   <!-- Copyright -->
 

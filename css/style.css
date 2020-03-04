@@ -41,6 +41,7 @@ background: linear-gradient(343deg, rgba(2,0,36,1) 0%, rgba(0,0,255,1) 22%, rgba
 }
 
 .unique-color-dark{
-background-color: #1c2331 !important;
+  background: rgb(2,0,36);
+  background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(211,0,255,1) 22%, rgba(0,212,255,1) 100%);
 
 }
