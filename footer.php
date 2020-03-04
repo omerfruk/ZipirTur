@@ -54,11 +54,9 @@
       <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
 
         <!-- Content -->
-        <h6 class="text-uppercase font-weight-bold">EXTUR</h6>
-        <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-        <p>Here you can use rows and columns to organize your footer content. Lorem ipsum dolor sit amet,
-          consectetur
-          adipisicing elit.</p>
+        <h6 class="text-uppercase font-weight-bold ml-5">Zıpır Tur</h6>
+        <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto " style="width: 60px;">
+        <p>Sizler hayal ediniz, bizler onları yapmak için çalışıyoruz</p>
 
       </div>
       <!-- Grid column -->
@@ -117,13 +115,13 @@
         <h6 class="text-uppercase font-weight-bold">Contact</h6>
         <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
         <p>
-          <i class="fas fa-home mr-3"></i> Ankara Kızılay , Türkiye</p>
+          <i class="fas fa-home mr-3"></i> Kütahya Merkez , Türkiye</p>
         <p>
-          <i class="fas fa-envelope mr-3"></i> furkanbdr99@hotmail.com</p>
+          <i class="fas fa-envelope mr-3"></i> mail@mail.com</p>
         <p>
-          <i class="fas fa-phone mr-3"></i> + 01 234 567 88</p>
+          <i class="fas fa-phone mr-3"></i> + 90 234 567 88</p>
         <p>
-          <i class="fas fa-print mr-3"></i> + 01 234 567 89</p>
+          <i class="fas fa-print mr-3"></i> + 90 234 567 89</p>
 
       </div>
       <!-- Grid column -->
@@ -136,7 +134,7 @@
 
   <!-- Copyright -->
   <div class="footer-copyright text-center py-3"id="footerBotem">© 2020 Copyright:
-    <a href="https://mdbootstrap.com/education/bootstrap/"> MDBootstrap.com</a>
+    <a href="https://mdbootstrap.com/education/bootstrap/">OmerFruk</a>
   </div>
   <!-- Copyright -->
 
