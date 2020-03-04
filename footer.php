@@ -1,9 +1,10 @@
-<footer class="page-footer font-small unique-color-dark " id="footer" >
+<footer class="page-footer font-small unique-color-dark "  >
   <div >
+    <div id="footer">
     <div class="container">
 
       <!-- Grid row-->
-      <div class="row py-4 d-flex align-items-center">
+      <div class="row py-4 d-flex align-items-center" >
 
         <!-- Grid column -->
         <div class="col-md-6 col-lg-5 text-center text-md-left mb-4 mb-md-0">
@@ -37,7 +38,7 @@
 
         </div>
         <!-- Grid column -->
-
+        </div>
       </div>
       <!-- Grid row-->
 
