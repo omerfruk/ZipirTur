@@ -36,6 +36,10 @@ background: linear-gradient(343deg, rgba(2,0,36,1) 0%, rgba(0,0,255,1) 22%, rgba
   background-size: cover;
 }
 #footer {
-  background: rgb(2,0,36);
+  background: #1c2331;
   background: linear-gradient(343deg, rgba(2,0,36,1) 0%, rgba(0,0,255,1) 22%, rgba(0,212,255,1) 100%);
 }
+#iconsArea{
+  text-align: center;
+
+} 
