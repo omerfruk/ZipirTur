@@ -35,7 +35,7 @@
           <a class="ins-ic">
             <i class="fab fa-instagram white-text"> </i>
           </a>
-
+          </div>
         </div>
         <!-- Grid column -->
         </div>

@@ -21,8 +21,7 @@ hr{
   border-top: #333 7px solid;
   border-bottom: #333 7px solid;
 }
-
-.carousel-item {
+#carouselExampleControls {
   height: 65vh;
   min-height: 300px;
   background: no-repeat center center scroll;
