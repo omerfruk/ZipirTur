@@ -56,8 +56,8 @@
       <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
 
         <!-- Content -->
-        <h6 class="text-uppercase font-weight-bold ml-5 text-center">Zıpır Tur</h6>
-        <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto "  style="width: 60px;">
+        <h6 class="text-uppercase font-weight-bold text-center">Zıpır Tur</h6>
+        <hr class="deep-purple accent-2 mb-4 mt-0  mx-auto "  style="width: 60px;">
         <p>Sizler hayal ediniz, bizler onları yapmak için çalışıyoruz</p>
 
       </div>
@@ -68,7 +68,7 @@
 
         <!-- Links -->
         <h6 class="text-uppercase font-weight-bold text-center">Sayfalar</h6>
-        <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+        <hr class="deep-purple accent-2 mb-4 mt-0  mx-auto" style="width: 60px;">
         <p>
           <a href="#!">Ana Sayfa</a>
         </p>
@@ -93,7 +93,7 @@
 
         <!-- Links -->
         <h6 class="text-uppercase font-weight-bold text-center">Useful links</h6>
-        <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+        <hr class="deep-purple accent-2 mb-4 mt-0  mx-auto" style="width: 60px;">
         <p>
           <a href="#!">Tur Fiyatları Listesi</a>
         </p>
@@ -115,7 +115,7 @@
 
         <!-- Links -->
         <h6 class="text-uppercase font-weight-bold text-center">Contact</h6>
-        <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+        <hr class="deep-purple accent-2 mb-4 mt-0  mx-auto" style="width: 60px;">
         <p>
           <i class="fas fa-home mr-3"></i> Kütahya Merkez , Türkiye</p>
         <p>
