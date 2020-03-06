@@ -34,7 +34,7 @@
      <h3 class="text-center">Mardin</h3><br><h4 class="text-center">Dinlerin ve Dillerin Şehri</h4>
     <p class="text-center">Mardin ilinde tarihin çok eski dönemine uzanan dönemlere ait bulgular yer almaktadır.
        Artuklu Üniversitesi yerleşkesi içinde yapılan kazılarda ortaya çıkarılan taşlar, Paleolitik Çağ'a tarihlenmiştir <br><br>
-       <a href="mardin.php" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Daha Fazlası İçin...</a>
+       <a href="mardin.php" class="btn btn-primary btn-sm active" role="button" aria-pressed="true">Daha Fazlası İçin...</a>
         </p>
       </div>
       <div class="col-md-12 m-3">
@@ -43,7 +43,7 @@
       <p class="text-center">  Zengin tarihi mirasının yanı sıra canlı bir kültür ve sanat merkezi olarak da önem taşır.
          Gelişmesi ve ülke ekonomisinde ağırlıklı bir rol kazanması yakın tarihlere rastlar.
          Metropolitan alanın yüzölçümü 1.020 km² olup nüfusu 7 milyonu aşkındır. <br><br>
-        <a href="madrid.php" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Daha Fazlası İçin...</a>
+        <a href="madrid.php" class="btn btn-primary btn-sm active" role="button" aria-pressed="true">Daha Fazlası İçin...</a>
        </p>
         </div>
         <div class="col-md-12 m-3">
@@ -52,7 +52,7 @@
           <p class="text-center">  Tamamı Akdeniz Bölgesi'nin batısında yer alır ve Antalya Körfezi'yle Batı Torosların arasında kurulmuştur.
              Yüzölçümü bakımından Türkiye'nin altıncı büyük ilidir.
              Güneyinde Akdeniz, batısında Muğla, kuzeyinde Burdur ve Isparta, kuzeydoğusunda Konya, doğusunda ise Karaman ve Mersin illeri vardır.<br><br>
-           <a href="antalya.php" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Daha Fazlası İçin...</a>
+           <a href="antalya.php" class="btn btn-primary btn-sm active" role="button" aria-pressed="true">Daha Fazlası İçin...</a>
           </p>
         </div>
         <div class="col-md-12 m-3">
@@ -62,7 +62,7 @@
              Kaliforniya'nın tercih nedeni daha güzel bir havaya ve açık alanlara sahip olmasıydı. 
              Ayrıca bir diğer nedeni de ünlü buluşçu Thomas Edison'a sinema konusundaki patentlerinden dolayı ödeme yapmaktan 
               <br><br>
-           <a href="hollywood.php" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Daha Fazlası İçin...</a>
+           <a href="hollywood.php" class="btn btn-primary btn-sm active" role="button" aria-pressed="true">Daha Fazlası İçin...</a>
           </p>
         </div>
         <div class="col-md-12 m-3">
@@ -70,7 +70,7 @@
            <h3 class="text-center">Paris</h3><br><h4 class="text-center">Sanatın Merkezi</h4>
         <p class="text-center">  Paris, Fransa'nın başkenti ve Île-de-France bölgesinin merkezidir. Sen Nehri'nin üzerine, Paris Havzası'nın ortasına kurulmuştur.
            Paris'te ikamet edenlere Parisien(ne) diye hitap edilir. Tüm dünyada anıtları, sanatsal ve kültürel yaşamı ile bilinen Paris, aynı zamanda dünya  <br><br>
-         <a href="paris.php" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Daha Fazlası İçin...</a>
+         <a href="paris.php" class="btn btn-primary btn-sm active" role="button" aria-pressed="true">Daha Fazlası İçin...</a>
         </p>
       </div>
       <!--
@@ -81,7 +81,7 @@
           "Haydi ya nasip" derdi ve evden çıkardı. Kimseler anlamazdı "Ya nasip" ne demekti?
           O mahallede herkes gömlek giyerdi, Ahmet Bey bir de ceket diktirdi, mahalleli bundan
           pek hoşlanmamış gibiydi. <br><br>
-         <a href="#" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Daha Fazlası İçin...</a>
+         <a href="#" class="btn btn-primary btn-sm active" role="button" aria-pressed="true">Daha Fazlası İçin...</a>
         </p>
       </div>  <div class="col-md-12 m-3">
         <img src="img/efes.jpg"class="border mr-5 img-thumbnail rounded float-left" width="300" height="300"/>
@@ -90,7 +90,7 @@
           "Haydi ya nasip" derdi ve evden çıkardı. Kimseler anlamazdı "Ya nasip" ne demekti?
           O mahallede herkes gömlek giyerdi, Ahmet Bey bir de ceket diktirdi, mahalleli bundan
           pek hoşlanmamış gibiydi. <br><br>
-         <a href="#" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Daha Fazlası İçin...</a>
+         <a href="#" class="btn btn-primary btn-sm active" role="button" aria-pressed="true">Daha Fazlası İçin...</a>
           </p>
         </div>
         <div class="col-md-12 m-3">
@@ -100,7 +100,7 @@
             "Haydi ya nasip" derdi ve evden çıkardı. Kimseler anlamazdı "Ya nasip" ne demekti?
             O mahallede herkes gömlek giyerdi, Ahmet Bey bir de ceket diktirdi, mahalleli bundan
             pek hoşlanmamış gibiydi. <br><br>
-           <a href="#" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Daha Fazlası İçin...</a>
+           <a href="#" class="btn btn-primary btn-sm active" role="button" aria-pressed="true">Daha Fazlası İçin...</a>
           </p>
           </div>
           <div class="col-md-12 m-3">
@@ -110,7 +110,7 @@
             "Haydi ya nasip" derdi ve evden çıkardı. Kimseler anlamazdı "Ya nasip" ne demekti?
             O mahallede herkes gömlek giyerdi, Ahmet Bey bir de ceket diktirdi, mahalleli bundan
             pek hoşlanmamış gibiydi. <br><br>
-           <a href="#" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Daha Fazlası İçin...</a>
+           <a href="#" class="btn btn-primary btn-sm active" role="button" aria-pressed="true">Daha Fazlası İçin...</a>
           </p>
         </div>
         <div class="col-md-12 m-3">
@@ -120,7 +120,7 @@
             "Haydi ya nasip" derdi ve evden çıkardı. Kimseler anlamazdı "Ya nasip" ne demekti?
             O mahallede herkes gömlek giyerdi, Ahmet Bey bir de ceket diktirdi, mahalleli bundan
             pek hoşlanmamış gibiydi. <br><br>
-           <a href="#" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Daha Fazlası İçin...</a>
+           <a href="#" class="btn btn-primary btn-sm active" role="button" aria-pressed="true">Daha Fazlası İçin...</a>
           </p>
         </div>
 -->
