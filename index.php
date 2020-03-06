@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
   <!--caroysel bölümü baslangic-->
-  
+  <div class="container">
 <div id="carouselExampleControls" class="carousel slide "  data-ride="carousel">
   <div class="carousel-inner" style="height:800px !important;" >
      <div class="carousel-item active">
@@ -21,6 +21,7 @@
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
+</div>
 </div>
 </div>
 <hr>
