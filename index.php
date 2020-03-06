@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
   <!--caroysel bölümü baslangic-->
-  <div class="container">
-<div id="carouselExampleControls" class="carousel slide "  data-ride="carousel">
+<div class="container">
+<div id="carouselExampleControls" class="carousel slide container"  data-ride="carousel">
   <div class="carousel-inner" style="height:800px !important;" >
      <div class="carousel-item active">
        <img src="img/mardin/mardin2.jpg" class="d-block" style="width: 100%;" alt="...">
@@ -23,12 +23,13 @@
   </a>
 </div>
 </div>
-</div>
+
+
 <hr>
 <!--caroysel bölümü eklendi-->
 <!--içerik forografları ve resimler baslangic-->
 <div class="container">
-  <div class="row">
+  <div class="row ">
     <div class="col-md-12 m-3">
      <div ><img src="img/mardin/mardin1.jpg"class="border mr-5 img-thumbnail rounded float-left"width="300" height="300"/></div>
      <h5 class="text-center">Mardin</h5><h5 class="text-center">Dinlerin ve Dillerin Şehri</h5>

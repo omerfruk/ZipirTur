@@ -19,23 +19,23 @@
 
   <body>
   <nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark" id ="navbar">
-    <a class="navbar-brand" href="#">Zıpır Tur</a>
+    <a class="navbar-brand font-weight-bolder" href="#">Zıpır Tur</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="nav navbar-nav ml-auto">
         <li class="nav-item active">
-          <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
+          <a class="nav-link font-weight-bolder" href="index.php">Home <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="contact.php">İletişim</a>
+          <a class="nav-link font-weight-bolder" href="contact.php">İletişim</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="aboute.php">Hakkınımzda</a>
+          <a class="nav-link font-weight-bolder" href="aboute.php">Hakkınımzda</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link " href="sss.php">Sık Sorulan Sorular</a>
+          <a class="nav-link font-weight-bolder" href="sss.php">Sık Sorulan Sorular</a>
         </li>
       </ul>
     </div>

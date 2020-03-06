@@ -20,7 +20,7 @@
             <i class="fab fa-facebook-f white-text mr-4"></i>
           </a>
           <!-- Twitter -->
-          <a class="tw-ic">
+          <a class="tw-ic" href="https://www.instagram.com/omer_fruk/?hl=tr" target="_blank">
             <i class="fab fa-twitter white-text mr-4"> </i>
           </a>
           <!-- Google +-->
