@@ -18,7 +18,8 @@
   </head>
 
   <body>
-  <nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark" id ="navbar">
+  <nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark " id ="navbar">
+  <div class="container">
     <a class="navbar-brand font-weight-bolder" href="#">Zıpır Tur</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -39,5 +40,18 @@
         </li>
       </ul>
     </div>
+    <div class="row ml-3" id="navbarSocial">
+
+      <ul class="navbar-nav container socialmedia">
+
+        <li class="nav-item">
+          <a class="nav-link" href="https://www.instagram.com"><i class="fab fa-instagram"></i></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://www.instagram.com"><i class="fab fa-facebook "></i></a>
+        </li>
+        </ul>
+      </div>
+    
   </nav>
   <br><br>
